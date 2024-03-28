@@ -31,16 +31,16 @@ Alian_Hash can find your hashes even if they are stored in a file like this
 simple@gmail.com:21232f297a57a5a743894a0e4a801fc3
 {"json@gmail.com":"d033e22ae348aeb5660fc2140aec35850c4da997"}
 surrondedbytext8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918surrondedbytext
-```
+```**Использование:** `alian-hash -d /root/Documents` ### Взлом хешей из файла Alian_Hash может найти ваши хеши, даже если они хранятся в таком файле ``` simple@gmail.com:21232f297a57a5a743894a0e4a801fc3 {"json@gmail.com":"d033e22ae348aeb5660fc2140aec35850c4da997"} surrondedbytext8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918surrondedbytext ``` **Использование:** `alian-hash -f /root/hashes.txt` ### Указание количества потоков Многопоточность может значительно минимизировать общая скорость, когда вам нужно взломать много хэшей, выполняя параллельные запросы.
 
-**Usage:** `alian-hash -f /root/hashes.txt`
+**Usage:*717552419* `alian-hash-f/root/hashes.txt`
 
-### Specifiying number of threads
+### Specifiying number of threadsИспользование:** `alian-hash-f/root/hashes.txt` ### Указание количества потоков
 
-Multi-threading can incredibly minimize the overall speed when you have a lot of hashes to crack by making requests in parallel.
+Многопоточность может невероятно минимизировать общую скорость, когда вам нужно взломать много хэшей, выполняя параллельные запросы.el.Многопоточность может невероятно минимизировать общую скорость, когда вам нужно взломать много хешей, выполняя параллельные запросы.
 
-`alian-hash -f /root/hashes.txt -t 10`
+`**Использование:** `alian -hash - f /root /hashes.txt` ### Указание количества потоков Многопоточность может значительно минимизировать общую скорость, когда вам нужно взломать много хэшей, выполняя запросы параллельно.**Использование:** `alian - hash - f / root /hashes.txt` ### Указание количества потоков Многопоточность может значительно минимизировать общую скорость, когда вам нужно взломать много хешей, выполняя параллельные запросы.alian-hash -f /root/hashes.txt -t 10`
 
 ### License
 Alian_Hash is licensed under myself
-
+**Использование:** `alian-hash -f /root/hashes.txt` ### Указание количества потоков Многопоточность может значительно минимизировать общую скорость, когда вам нужно взломать много хэшей, выполняя запросы параллельно. `alian-hash -f /root/hashes.txt -t 10` ### Лицензия Alian_Hash находится под моей лицензией
