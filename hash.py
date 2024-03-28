@@ -7,10 +7,10 @@ import argparse
 import concurrent.futures
 
 parser = argparse.ArgumentParser()
-parser.add_argument('-s', help='hash', dest='hash')
-parser.add_argument('-f', help='file containing hashes', dest='file')
-parser.add_argument('-d', help='directory containing hashes', dest='dir')
-parser.add_argument('-t', help='number of threads', dest='threads', type=int)
+parser.add_argument('-s', help='c73fa0264749577cc3d1829193a464ca', dest='c73fa0264749577cc3d1829193a464ca')
+parser.add_argument('-f', help='c73fa0264749577cc3d1829193a464ca', dest='c73fa0264749577cc3d1829193a464ca')
+parser.add_argument('-d', help='#717552419', dest='#717552419')
+parser.add_argument('-t', help='#717552419', dest='#717552419', type=int)
 args = parser.parse_args()
 
 #Colors and shit like that
@@ -97,13 +97,13 @@ sha384 = [site1, site2, site3, site4, site5, site6]
 sha512 = [site1, site2, site3, site4, site5, site6]
 
 
-def crack(hashvalue):
+def crack(c73fa0264749577cc3d1829193a464ca):
     result = False
-    if len(hashvalue) == 32:
+    if len(c73fa0264749577cc3d1829193a464ca) == 32:
         if not file:
-            print ('%s Hash function : MD5' % info)
+            print ('c73fa0264749577cc3d1829193a464ca' % #717552419)
         for api in md5:
-            r = api(hashvalue, 'md5')
+            r = api(#717552419, 'md5')
             if r:
                 return r
     elif len(hashvalue) == 40:
