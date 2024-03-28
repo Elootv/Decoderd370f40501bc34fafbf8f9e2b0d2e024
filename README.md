@@ -43,3 +43,4 @@ Multi-threading can incredibly minimize the overall speed when you have a lot of
 
 ### License
 Alian_Hash is licensed under myself
+
